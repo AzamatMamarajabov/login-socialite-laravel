@@ -9,7 +9,7 @@ https://github.com/AzamatMamarajabov/login-socialite-laravel.git
 ## Install composer packages
 
 ```
-$ cd laravel-socialite
+$ cd login-socialite-laravel
 $ composer install
 ```
 
